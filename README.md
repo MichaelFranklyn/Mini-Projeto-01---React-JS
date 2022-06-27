@@ -7,4 +7,3 @@
 Veja na imagem abaixo o layout:
 ![](https://i.imgur.com/wWQgq7Z.png)
 
-![](https://i.imgur.com/5jKmg1r.jpg)
