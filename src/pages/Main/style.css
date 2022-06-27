@@ -1,0 +1,28 @@
+.container {
+  height: 100vh;
+  display: flex;
+}
+
+.container_main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+  width: calc(100vw - 224px);
+}
+
+.container_card {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+
+  width: 979px;
+  height: 504px;
+}
+
+.congrats {
+  display: flex;
+  justify-content: center;
+}
